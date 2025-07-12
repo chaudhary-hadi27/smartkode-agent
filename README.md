@@ -126,8 +126,3 @@ streamlit run app/dashboard.py
 Pull requests are welcome. Let's make this the most student-friendly AI bot ever.
 
 ---
-
-## 👨‍💻 Created by [SmartKode Institute](https://smartkode.io)
-
-Empowering students with cutting-edge skills in AI, Web, and Data. 🚀
-# smartkode-agent
