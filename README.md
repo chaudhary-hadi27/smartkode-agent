@@ -1,4 +1,4 @@
-# 🚀 SmartKode WhatsApp AI Chatbot
+# 🚀 SmartKode Institute's AI Chatbot
 
 Welcome to the **SmartKode Institute's AI WhatsApp Chatbot** — a complete, production-grade assistant powered by FastAPI, Twilio, and Groq's LLaMA3. This chatbot engages students via WhatsApp, guiding them on SmartKode's AI, Web Development, and Data courses.
 
